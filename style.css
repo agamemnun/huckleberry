@@ -34,10 +34,6 @@ header {
 }
 
 main {
-  /*margin-top: 32px;*/
-}
-
-main {
   background-color: hsl(0deg, 0%, 60%);
   border-top: 8px solid hsl(0deg, 0%, 30%);
   padding: 48px 0;
